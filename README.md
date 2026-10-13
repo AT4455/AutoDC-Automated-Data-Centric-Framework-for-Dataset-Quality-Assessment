@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoDC — Data-Centric Quality Assessment Platform
 
 AutoDC is a local-first Streamlit application inspired by the supplied AutoDC project report and HI-DBSF paper. It provides a working tabular data pipeline with optional image quality processing.
@@ -110,3 +111,6 @@ AutoDC_Project/
 ## Research alignment
 
 The supplied project report describes four main stages: ingestion and unification, quality assessment, cleaning and reduction, and output with monitoring. This MVP implements the local tabular workflow, optional reference-based KS drift checks, report/audit export, and an image ZIP quality module. A continuous filesystem watcher, multi-source directory orchestration, and persistent database/user authentication are not included in this first MVP.
+=======
+# AutoDC-Automated-Data-Centric-Framework-for-Dataset-Quality-Assessment
+>>>>>>> 4d50f188a6118805c7fff28eca763965bfdda5a9
